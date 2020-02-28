@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"/>
+
+<plist version="1.0">
+    <dict>
+        <key>ROOT</key>
+        <array>
+            <dict>
+                <key>id</key>
+                <string>2163</string>
+                <key>className</key>
+                <string>PTModelComponentMove</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Advanced Move</string>
+                </dict>
+                <key>Collision Shape</key>
+                <dict>
+                    <key>id</key>
+                    <string>2941</string>
+                    <key>className</key>
+                    <string>PTModelPolygon</string>
+                    <key>Name</key>
+                    <dict>
+                        <key>value</key>
+                        <string></string>
+                    </dict>
+                    <key>points</key>
+                    <array>
+                        <string>{-55.000000,-135.000000}</string>
+                        <string>{1.000000,-135.000000}</string>
+                        <string>{1.000000,-79.000000}</string>
+                        <string>{-55.000000,-79.000000}</string>
+                    </array>
+                    <key>oneWayCollisionVector</key>
+                    <string>{0.000000,0.000000}</string>
+                    <key>shapeType</key>
+                    <string>1</string>
+                </dict>
+                <key>Activate On Start</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Linear Velocity</key>
+                <dict>
+                    <key>value</key>
+                    <string>{20.000,20.000}</string>
+                </dict>
+                <key>Mathematical Operation</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kReplace</string>
+                </dict>
+                <key>Event</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kEventStart</string>
+                </dict>
+                <key>Affected asset</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>-1</string>
+                </dict>
+                <key>_senderId</key>
+                <string>0</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>2268</string>
+                <key>className</key>
+                <string>PTModelComponentMove</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Advanced Move</string>
+                </dict>
+                <key>Collision Shape</key>
+                <dict>
+                    <key>id</key>
+                    <string>2942</string>
+                    <key>className</key>
+                    <string>PTModelPolygon</string>
+                    <key>Name</key>
+                    <dict>
+                        <key>value</key>
+                        <string></string>
+                    </dict>
+                    <key>points</key>
+                    <array>
+                        <string>{-55.000000,-135.000000}</string>
+                        <string>{1.000000,-135.000000}</string>
+                        <string>{1.000000,-79.000000}</string>
+                        <string>{-55.000000,-79.000000}</string>
+                    </array>
+                    <key>oneWayCollisionVector</key>
+                    <string>{0.000000,0.000000}</string>
+                    <key>shapeType</key>
+                    <string>1</string>
+                </dict>
+                <key>Activate On Start</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Linear Velocity</key>
+                <dict>
+                    <key>value</key>
+                    <string>{-20.000,20.000}</string>
+                </dict>
+                <key>Mathematical Operation</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kReplace</string>
+                </dict>
+                <key>Event</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kInputControllerActionButton-2261</string>
+                </dict>
+                <key>Affected asset</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>-1</string>
+                </dict>
+                <key>_senderId</key>
+                <string>2261</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>2278</string>
+                <key>className</key>
+                <string>PTModelComponentMove</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Advanced Move</string>
+                </dict>
+                <key>Collision Shape</key>
+                <dict>
+                    <key>id</key>
+                    <string>2943</string>
+                    <key>className</key>
+                    <string>PTModelPolygon</string>
+                    <key>Name</key>
+                    <dict>
+                        <key>value</key>
+                        <string></string>
+                    </dict>
+                    <key>points</key>
+                    <array>
+                        <string>{-55.000000,-135.000000}</string>
+                        <string>{1.000000,-135.000000}</string>
+                        <string>{1.000000,-79.000000}</string>
+                        <string>{-55.000000,-79.000000}</string>
+                    </array>
+                    <key>oneWayCollisionVector</key>
+                    <string>{0.000000,0.000000}</string>
+                    <key>shapeType</key>
+                    <string>1</string>
+                </dict>
+                <key>Activate On Start</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Linear Velocity</key>
+                <dict>
+                    <key>value</key>
+                    <string>{20.000,20.000}</string>
+                </dict>
+                <key>Mathematical Operation</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kReplace</string>
+                </dict>
+                <key>Event</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kInputControllerActionButton-2262</string>
+                </dict>
+                <key>Affected asset</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>-1</string>
+                </dict>
+                <key>_senderId</key>
+                <string>2262</string>
+            </dict>
+        </array>
+    </dict>
+</plist>

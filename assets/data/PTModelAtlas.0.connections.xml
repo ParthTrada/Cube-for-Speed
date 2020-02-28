@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"/>
+
+<plist version="1.0">
+    <dict>
+        <key>ROOT</key>
+        <array>
+            <dict>
+                <key>id</key>
+                <string>107</string>
+                <key>sprites</key>
+                <array>
+                    <string>2335</string>
+                    <string>121</string>
+                    <string>2439</string>
+                    <string>2512</string>
+                    <string>2476</string>
+                    <string>2414</string>
+                    <string>2624</string>
+                    <string>3078</string>
+                    <string>3052</string>
+                    <string>3041</string>
+                    <string>2784</string>
+                    <string>2773</string>
+                    <string>2758</string>
+                    <string>2665</string>
+                    <string>2635</string>
+                    <string>2609</string>
+                    <string>3288</string>
+                    <string>442</string>
+                    <string>2368</string>
+                    <string>3280</string>
+                    <string>3274</string>
+                    <string>2337</string>
+                    <string>2341</string>
+                    <string>342</string>
+                    <string>2371</string>
+                    <string>2361</string>
+                    <string>2358</string>
+                    <string>2355</string>
+                    <string>2347</string>
+                    <string>2329</string>
+                    <string>3336</string>
+                    <string>3335</string>
+                    <string>3366</string>
+                    <string>2349</string>
+                    <string>3642</string>
+                    <string>3651</string>
+                    <string>3633</string>
+                    <string>3624</string>
+                    <string>3660</string>
+                    <string>3353</string>
+                </array>
+            </dict>
+        </array>
+    </dict>
+</plist>
